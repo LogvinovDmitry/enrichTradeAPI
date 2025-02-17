@@ -96,3 +96,22 @@ There are several areas where improvements could be made to enhance functionalit
    - To improve understanding and usability of the API, it is recommended to add documentation using **Swagger** or **OpenAPI** to automate API documentation creation and updates.
 
 ---
+Вот обновленный раздел с переводом на английский и добавлением абзаца "Screenshots":
+
+---
+
+## 4. **Task Status**
+
+- **Task 1 (Required Features)**: Completed. The project is successfully set up and working, Redis is configured through Docker, and the application starts without errors.
+- **Task 2 (Support for JSON and XML)**: Not completed.
+- **Task 3 (Asynchronous Processing)**: Partially completed.
+- **Task 4 (Reactive Data Processing)**: Completed.
+
+---
+
+## **Screenshots**
+
+![img.png](img.png)
+![img_1.png](img_1.png)
+
+---
